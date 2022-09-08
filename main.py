@@ -3,8 +3,8 @@ from spotipy.oauth2 import SpotifyOAuth
 from bs4 import BeautifulSoup
 import requests
 
-SPOTIFY_CLIENT_ID = "3a8eb0e9e8f34be0a4f34212803b71d7"
-SPOTIFY_CLIENT_SECRET = "2a698fe828c14f72bee24f805ed2307d"
+SPOTIFY_CLIENT_ID = "Your_Spotify_Client_ID"
+SPOTIFY_CLIENT_SECRET = "Your_Spotify_Client_Secret"
 
 date = input("Which date do you want to travel to? Type that date in this format YYYY-MM-DD: ")
 
