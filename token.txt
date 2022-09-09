@@ -1,1 +1,1 @@
-{"access_token": "BQBHrXZOb2xVqkQGBLc8B2LGZ5IgPCcSByZYYPwcm4LaaWQBNcq5yK9ZKFrVgYas_TQio7mRqo6Z1d1AhA16FSwUk0ATMCspiHu2c69gJSy_d1chz2kZNMzDinDFjfzT6JlKB-xQ07DXcznRt0G9OqrrND9FKnW9lgJUKWbQ2e-VaTxcLs9L4uesyx4YxjbOKM1nCzZHeIawmXg6cqfuq_IjbY-OqGi3ag", "token_type": "Bearer", "expires_in": 3600, "scope": "playlist-modify-private", "expires_at": 1662668120, "refresh_token": "AQB_l4iBK_e3RgLCqCuXwnQkCZHTdiIiN-GVCJtjKCvyPywr8S_6lPVu2VdeeXoIov38vEMFoYEmSre8F8U65loooSsTgf1BlygU6cm0cxhniy1l6ffNWpjjaLvFVNlR7Lg"}
+{"access_token": "Your_token_with_details"}
